@@ -8,7 +8,7 @@
 - Signup at https://profile.anthive.io/
 - Set your username in [ANTHIVE](ANTHIVE) file
 
-## Run locally
+## Run locally (not required)
 ```
 php -S localhost:7070
 ```
